@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Perl when iterating over arrays using a numerical index. The `bug.pl` file contains the erroneous code, while `bugSolution.pl` provides the corrected version.  The error occurs due to an incorrect loop condition, causing an attempt to access an element that doesn't exist, leading to undefined behavior.
